@@ -1,0 +1,5 @@
+package com.example.demoforjpa.controller;
+
+public class Controller {
+
+}

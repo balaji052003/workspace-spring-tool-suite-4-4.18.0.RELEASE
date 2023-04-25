@@ -1,0 +1,5 @@
+package com.example.demoforjpa.entity;
+
+public class Student {
+
+}
